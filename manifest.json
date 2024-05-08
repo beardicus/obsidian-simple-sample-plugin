@@ -1,0 +1,11 @@
+{
+	"id": "simple-sample-plugin",
+	"name": "Simple Sample Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Demonstrates a simple JavaScript-only Obsidian plugin.",
+	"author": "Example Humanoid",
+	"authorUrl": "https://example.com",
+	"fundingUrl": "https://example.com/funding",
+	"isDesktopOnly": false
+}

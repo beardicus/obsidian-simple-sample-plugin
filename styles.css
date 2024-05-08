@@ -1,0 +1,9 @@
+/*
+This CSS file is included with your plugin and is available in the app when
+your plugin is enabled. If your plugin does not need CSS, delete this file.
+*/
+
+/* Line 34 of main.js adds this class to the ribbon icon */
+div.my-plugin-ribbon-class {
+	color: red;
+}
